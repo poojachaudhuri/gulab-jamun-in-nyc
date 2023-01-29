@@ -1,4 +1,4 @@
-I'm from India and I love gulab jamuns. This project is my quest to find gulab jamuns - the best and the cheapest options - in New York City.
+I love gulab jamuns. This project is my quest to find gulab jamuns - the best and the cheapest options - in New York City.
 
 ### Methodology
 
