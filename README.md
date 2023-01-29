@@ -6,7 +6,7 @@ I'm from India and I love gulab jamuns. This project is my quest to find gulab j
 
 2. I manually got the price of gulab jamuns by checking the menus of each restaurants. Sadly the API did not have an option to get menu details. In restaurants where the serving size is not specified, the cost is assumed to be for two gulab jamuns. For restaurants that sell the dessert by weight, 1lb is assumed to have 7 pieces of gulab jamun. 
 
-2. Since I'm lazy and do not want to travel every time I have a gulab jamun craving, I also manually searched for canned gulab jamun on Amazon. The same product might be sold by different sellers on Amazon. The lowest price has been considered to collect the data. 
+2. Since I'm lazy and do not want to travel every time I have a gulab jamun craving, I also manually searched for canned gulab jamun on Amazon. The lowest price was considered for the same product sold by different sellers.
 
 ### Findings
 
