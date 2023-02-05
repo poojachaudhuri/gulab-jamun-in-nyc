@@ -18,7 +18,7 @@ The project inferred that gulab jamun is more popular that matcha cheesecake tho
 
 Since a single source (Yelp API) was used to get the data, the project may not be an accurate respresetation of the ground reality. 
 
-The story can be read [here]"(https://poojachaudhuri.github.io/gulab-jamun-in-nyc/)". 
+The story can be read [here](https://poojachaudhuri.github.io/gulab-jamun-in-nyc/). 
 
 
 
