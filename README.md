@@ -10,6 +10,8 @@ I love gulab jamuns. This project is my quest to find gulab jamuns - the best an
 
 4. I also used Yelp API to give me the data on restaurants that sell matcha cheesecake or green tea cheesecake. It is my least favourite dessert and I wanted to see if it is more easily available than gulab jamun. I got a list of over 750 restaurants and manually cleaned the data. The final map has 22 restaurants since the API threw up results for any one of the following three keywords - matcha, chessecake and green tea.
 
+5. I used Datawrapper to make the interactive maps and chart and the static bar chart was made using matplotlib. 
+
 ### Findings
 
 This project inferred that gulab jamun is more popular than matcha cheesecake though both desserts do not seem to be sold by many restaurants. Restaurants in 'Curry Row' in Lower Manhattan is where one can find both desserts compared to other parts of the city. I also found that canned gulab jamuns are a cheaper option in comparison. 
