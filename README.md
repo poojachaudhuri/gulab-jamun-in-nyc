@@ -12,7 +12,7 @@ I love gulab jamuns. This project is my quest to find gulab jamuns - the best an
 
 ### Findings
 
-The project inferred that gulab jamun is more popular that matcha cheesecake though both desserts do not seem to be sold by many restaurants. I also found that canned gulab jamuns are a cheaper option in comparison. 
+This project inferred that gulab jamun is more popular than matcha cheesecake though both desserts do not seem to be sold by many restaurants. Restaurants in 'Curry Row' in Lower Manhattan is where one can find both desserts compared to other parts of the city. I also found that canned gulab jamuns are a cheaper option in comparison. 
 
 ### Limitations
 
